@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVM-Version", "DVM-Version\DVM-Version.csproj", "{A1B21C8D-02E7-4E4A-8A9B-1B5264F02381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVM-Header", "DVM-Header\DVM-Header.csproj", "{3423F2FF-B5F6-4F9E-B11A-6438DED6A0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVM-Compare", "DVM-Compare\DVM-Compare.csproj", "{AA15AD2E-1300-4040-BF60-44E103CD47C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B21C8D-02E7-4E4A-8A9B-1B5264F02381}.Debug|x86.ActiveCfg = Debug|x86
+		{A1B21C8D-02E7-4E4A-8A9B-1B5264F02381}.Debug|x86.Build.0 = Debug|x86
+		{A1B21C8D-02E7-4E4A-8A9B-1B5264F02381}.Release|x86.ActiveCfg = Release|x86
+		{A1B21C8D-02E7-4E4A-8A9B-1B5264F02381}.Release|x86.Build.0 = Release|x86
+		{3423F2FF-B5F6-4F9E-B11A-6438DED6A0BE}.Debug|x86.ActiveCfg = Debug|x86
+		{3423F2FF-B5F6-4F9E-B11A-6438DED6A0BE}.Debug|x86.Build.0 = Debug|x86
+		{3423F2FF-B5F6-4F9E-B11A-6438DED6A0BE}.Release|x86.ActiveCfg = Release|x86
+		{3423F2FF-B5F6-4F9E-B11A-6438DED6A0BE}.Release|x86.Build.0 = Release|x86
+		{AA15AD2E-1300-4040-BF60-44E103CD47C1}.Debug|x86.ActiveCfg = Debug|x86
+		{AA15AD2E-1300-4040-BF60-44E103CD47C1}.Debug|x86.Build.0 = Debug|x86
+		{AA15AD2E-1300-4040-BF60-44E103CD47C1}.Release|x86.ActiveCfg = Release|x86
+		{AA15AD2E-1300-4040-BF60-44E103CD47C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
